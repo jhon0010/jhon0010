@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there, I'm Jhon, I'm a Software Architect, Designer and Developer 👨🏻‍💻
 
-<!--
-**jhon0010/jhon0010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning about startups 🧗🏻‍♂️
+- 👯 I’m looking to collaborate with other developers and think about new business possibilities👨🏻‍💼
+- 🥅 2020 Goals: Grow more as a person🧘🏻‍♂️
+- ⚡ Fun fact: I love to workout and play clash royale.
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br/><br/>
+
+  <summary>Github Stats</summary>
+
+  <img align="left" alt="jhon0010's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jhon0010&show_icons=true&hide_border=true" />
+
+[twitter]: https://twitter.com/jhon_lotero10
+[linkedin]: https://linkedin.com/in/jhon-lotero
