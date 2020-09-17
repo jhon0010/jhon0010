@@ -1,6 +1,6 @@
 ### Hi there, I'm Jhon, I'm a Software Architect, Designer and Developer 👨🏻‍💻
 
-- 🌱 I’m currently learning about startups 🧗🏻‍♂️
+- 🌱 I’m currently learning about startups 🧗🏻‍♂️, google cloud platform, typescript and many differents things
 - 👯 I’m looking to collaborate with other developers and think about new business possibilities👨🏻‍💼
 - 🥅 2020 Goals: Grow more as a person🧘🏻‍♂️
 - ⚡ Fun fact: I love to workout and play clash royale.
