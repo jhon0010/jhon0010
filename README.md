@@ -14,9 +14,29 @@
 
 <br/><br/>
 
-  <summary>Github Stats</summary>
+### Languages and tools
 
-  <img align="left" alt="jhon0010's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jhon0010&show_icons=true&hide_border=true" />
+<!-- languages -->
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg">
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg">
+
+<!-- infrastructure -->
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlecloud.svg">
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg">
+
+<!-- frameworks -->
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg">
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nestjs.svg">
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg">
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
+
+<br/><br/>
+
+<summary>Github Stats</summary>
+<img align="left" alt="jhon0010's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jhon0010&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/jhon_lotero10
 [linkedin]: https://linkedin.com/in/jhon-lotero
