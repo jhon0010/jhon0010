@@ -17,21 +17,22 @@
 ### Languages and tools
 
 <!-- languages -->
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg">
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg">
+<img height="32" align="left" alt="java" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg">
+<img height="32" align="left" alt="typescript"  width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg">
 
 <!-- infrastructure -->
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlecloud.svg">
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg">
+<img height="32" align="left" alt="google cloud" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlecloud.svg">
+
+<img height="32" align="left" alt="AWS" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg">
 
 <!-- frameworks -->
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg">
+<img height="32" width="32" align="left" alt="Graphql" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg">
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nestjs.svg">
+<img height="32" width="32" align="left" alt="nestjs"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nestjs.svg">
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg">
+<img height="32" width="32" align="left" alt="spring"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg">
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
+<img height="32" width="32" align="left" alt="github"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
 
 <br/><br/>
 
