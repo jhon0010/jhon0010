@@ -36,8 +36,5 @@
 
 <br/><br/>
 
-<summary>Github Stats</summary>
-<img align="left" alt="jhon0010's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jhon0010&show_icons=true&hide_border=true" />
-
 [twitter]: https://twitter.com/jhon_lotero10
 [linkedin]: https://linkedin.com/in/jhon-lotero
