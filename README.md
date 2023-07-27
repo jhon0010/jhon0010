@@ -1,40 +1,39 @@
-### Hi there, I'm Jhon, I'm a Software Architect, Designer and Developer 👨🏻‍💻
+Hi there! 👋 I'm Jhon, a passionate Software Architect, Designer, and Developer with extensive experience in backend engineering and software architecture. 💻
 
-- 🌱 I’m currently learning about startups 🧗🏻‍♂️, google cloud platform, typescript and many differents things.
-- 👯 I’m looking to collaborate with other developers and think about new business possibilities👨🏻‍💼
-- 🥅 2021 Goals: Grow more as a person🧘🏻‍♂️
-- ⚡ Fun fact: I love to workout and play clash royale.
+Some Work Experience:
 
-### Connect with me:
+🏢 Senior Java Developer at INTERTEC
+Designed and developed backend solutions for various projects, including APIs, asynchronous processing, and batch processing. Improved traceability and implemented changes to prevent errors and timeouts. Emphasized cloud components and kept the tech stack up-to-date. (Apr. 2022 - Present)
+🏢 Java Architect at GLOBANT
+Responsible for designing and developing backend solutions, focusing on modularity, maintenance, and meeting non-functional requirements. (Currently)
+🏢 Principal Software Engineer at APTUNO
+Pioneered the transition of the MVP solution to production mode, refactored code, and enhanced maintainability, resilience, and modularity of a large-scale product. Implemented DDD with hexagonal architecture and CQRS, along with event-driven patterns for service decoupling. (Previous role)
 
-<br/>
+Education:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  🎓 Magister en Ingeniería de Software from University of Los Andes
 
-<br/><br/>
+Equipped with advanced skills in agile engineering, software architecture, project management, and quality assurance. Specialized in AWS and Java. (Graduated)
 
-### Languages and tools
+Connect with Me
 
-<!-- languages -->
-<img height="32" align="left" alt="java" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg">
-<img height="32" align="left" alt="typescript"  width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg">
+  📧 Email: jlotero.salazar@gmail.com
+  🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jhon-lotero/)
+  🐦 Twitter: [Twitter Profile](https://twitter.com/jhon_lotero10)
 
-<!-- infrastructure -->
-<img height="32" align="left" alt="google cloud" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlecloud.svg">
+Skills:
 
-<img height="32" align="left" alt="AWS" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg">
+  💻 Java, TypeScript, Some Python
+  ☁️ Google Cloud Platform (GCP), AWS
+  📦 Spring, NestJS, GraphQL, FastAPI 
+  🗃️ MySQL, Postgres, MongoDB, Big data, Cloudera
+  🔧 Git, GitHub, Jenkins, CI/CD, Sonar
 
-<!-- frameworks -->
-<img height="32" width="32" align="left" alt="Graphql" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/graphql.svg">
+Interests:
 
-<img height="32" width="32" align="left" alt="nestjs"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nestjs.svg">
+  🚀 Startups and Entrepreneurship
+  🧘🏻‍♂️ Personal Growth and Development
+  🏋️‍♂️ Fitness and Workouts
+  🎮 Gaming (Clash Royale)
 
-<img height="32" width="32" align="left" alt="spring"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg">
-
-<img height="32" width="32" align="left" alt="github"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
-
-<br/><br/>
-
-[twitter]: https://twitter.com/jhon_lotero10
-[linkedin]: https://linkedin.com/in/jhon-lotero
+Feel free to reach out if you'd like to collaborate or discuss any software or business-related opportunities! 🤝
