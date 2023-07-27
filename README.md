@@ -27,7 +27,7 @@ Equipped with advanced skills in agile engineering, software architecture, proje
 
   📧 Email: jlotero.salazar@gmail.com
   🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jhon-lotero/)
-  🐦 Twitter no X ✖️: [Twitter ✖️ Profile](https://twitter.com/jhon_lotero10)
+  🐦 Twitter now X ✖️: [Twitter ✖️ Profile](https://twitter.com/jhon_lotero10)
 
 ## Skills:
 
