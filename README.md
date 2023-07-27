@@ -45,4 +45,4 @@ Equipped with advanced skills in agile engineering, software architecture, proje
   🏋️‍♂️ Fitness and Workouts
   🎮 Gaming (Clash Royale)
 
-** Feel free to reach out if you'd like to collaborate or discuss any software or business-related opportunities! 🤝 **
+**Feel free to reach out if you'd like to collaborate or discuss any software or business-related opportunities!🤝**
