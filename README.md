@@ -1,27 +1,11 @@
-# Hi there! 👋 I'm Jhon, a passionate Software Architect, Designer, and Developer with extensive experience in backend engineering and software architecture. 💻
+# Hi there! 👋 I'm Jhon, a Software engineer I like backend engineering and software architecture. 💻
 
-## Some Work Experience:
+With over 12 years of experience in software engineering 🖥️ and a master's degree in the field 🎓, my goal is to lead the implementation of cutting-edge software solutions 🚀 that drive business success.
 
-### 🏢 Senior Java Developer at INTERTEC
+As a passionate specialist in software architecture and back-end development, I specialize in creating robust and distributed systems, with a particular focus on microservices 🛠️ and event-driven architectures. My motivation lies in innovation 💡 and optimizing solutions that promote organizational growth and success.
 
-➕Designed and developed backend solutions for various projects, including APIs, asynchronous processing, and batch processing. Improved traceability and implemented changes to prevent errors and timeouts. Emphasized cloud components and kept the tech stack up-to-date.
+I have led transformational projects in various international consultancies and startups 🌟. Designing solid back-end solutions, and leading the development of microservices and event-driven architectures 🎉. I am always looking for new challenges that leverage my experience to drive innovation and transformational growth ✨
 
-### 🏢 Principal Software Engineer at APTUNO
-
-➕Pioneered the transition of the MVP solution to production mode, refactored code, and enhanced maintainability, resilience, and modularity of a large-scale product. Implemented DDD with hexagonal architecture and CQRS, along with event-driven patterns for service decoupling.
-
-### 🏢 Technical Leader | Data Engineer at Rappi
-
-I spearheaded the planning, design, and execution of diverse development projects, prioritizing (micro)-services and event-driven architectures.
-
-➕Utilizing Java, Spring Boot, and Apache Kafka to engineer automated call flows, demand control, store self-control, and partner business metrics monitoring, enhancing operational efficiency and ensuring a seamless user experience.
-➕Additionally, I actively participated in constructing the data lake and developing ETLs and dashboards for the data science team in the restaurant vertical, facilitating data-driven insights and informed decision-making.
-
-## Education:
-
-  🎓 Magister en Ingeniería de Software from University of Los Andes
-
-Equipped with advanced skills in agile engineering, software architecture, project management, and quality assurance. Specialized in AWS and Java. (Graduated)
 
 ## Connect with Me
 
@@ -33,16 +17,16 @@ Equipped with advanced skills in agile engineering, software architecture, proje
 
   💻 Java, TypeScript, Some Python
   ☁️ Google Cloud Platform (GCP), AWS
-  📦 Spring, NestJS, GraphQL, FastAPI 
-  🗃️ MySQL, Postgres, MongoDB, Big data, Cloudera
-  🔧 Git, GitHub, Jenkins, CI/CD, Sonar
+  📦 Spring, NestJS, GraphQL, FastAPI , Apache Kafka
+  🗃️ MySQL, Postgres, MongoDB, Big data, Cloudera, Redis, Elasticsearch
+  🔧 Git, GitHub, Jenkins, CI/CD, Sonar, Docker
+  🤖 Prompt engineer, OpenAI (API)
 
 ## Interests:
 
   🚀 Startups and Entrepreneurship
   🤓 Software, Architecture, data & IA
   🧘🏻‍♂️ Personal Growth and Development
-  🏋️‍♂️ Fitness and Workouts
   🎮 Gaming (Clash Royale)
 
 **Feel free to reach out if you'd like to collaborate or discuss any software or business-related opportunities!🤝**
