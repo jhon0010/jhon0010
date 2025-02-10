@@ -1,11 +1,13 @@
-# Hi there! 👋 I'm Jhon, a Software engineer I like backend engineering and software architecture. 💻
+# Hi there! 👋 I'm Jhon, a Software engineer
 
-With over 12 years of experience in software engineering 🖥️ and a master's degree in the field 🎓, my goal is to lead the implementation of cutting-edge software solutions 🚀 that drive business success.
+With over 12 years of experience in different software engineering roles, specifically in software architecture, data engineering and back-end development, I specialize in building robust and distributed systems, with a particular focus on (micro) services and event-driven architectures using pub-sub, Kafka or other brokers.
 
-As a passionate specialist in software architecture and back-end development, I specialize in creating robust and distributed systems, with a particular focus on microservices 🛠️ and event-driven architectures. My motivation lies in innovation 💡 and optimizing solutions that promote organizational growth and success.
+My key competencies include:
 
-I have led transformational projects in various international consultancies and startups 🌟. Designing solid back-end solutions, and leading the development of microservices and event-driven architectures 🎉. I am always looking for new challenges that leverage my experience to drive innovation and transformational growth ✨
-
+Back-End Development: Using Java/Spring 🍃, I also have experience using Typescript (NodeJs) / NestJS
+Databases: Postgresql, MySQL, Oracle, SQL Server, MongoDB, Redis, Elasticsearch
+Cloud Deployments: Experience with AWS and GCP (Google Cloud Platform)
+Additional Skills: I also have knowledge in software architecture, data engineering (Apache beam and Spring batch), CI/CD, Docker, Cloudera, Apache Kafka, Big Data, Prompt engineer.
 
 ## Connect with Me
 
@@ -17,16 +19,9 @@ I have led transformational projects in various international consultancies and 
 
   💻 Java, TypeScript, Some Python
   ☁️ Google Cloud Platform (GCP), AWS
-  📦 Spring, NestJS, GraphQL, FastAPI , Apache Kafka
-  🗃️ MySQL, Postgres, MongoDB, Big data, Cloudera, Redis, Elasticsearch
-  🔧 Git, GitHub, Jenkins, CI/CD, Sonar, Docker
-  🤖 Prompt engineer, OpenAI (API)
+  📦 Spring, NestJS, GraphQL, Apache Kafka
+  🗃️ MySQL, Postgres, Big data, Cloudera, Redis, Elasticsearch
+  🔧 GitHub, Jenkins, CI/CD, Sonar, Docker
+  🤖 Prompt engineer
 
-## Interests:
-
-  🚀 Startups and Entrepreneurship
-  🤓 Software, Architecture, data & IA
-  🧘🏻‍♂️ Personal Growth and Development
-  🎮 Gaming (Clash Royale)
-
-**Feel free to reach out if you'd like to collaborate or discuss any software or business-related opportunities!🤝**
+**Feel free to reach out if you'd like to collaborate or discuss any opportunities!🤝**
