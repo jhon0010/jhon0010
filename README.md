@@ -11,7 +11,7 @@ Additional Skills: I also have knowledge in software architecture, data engineer
 
 ## Connect with Me
 
-  📧 Email: jlotero.salazar@gmail.com
+  📧 Email: jhonloterodev@gmail.com
   🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jhon-lotero/)
   🐦 Twitter now X ✖️: [Twitter ✖️ Profile](https://twitter.com/jhon_lotero10)
 
